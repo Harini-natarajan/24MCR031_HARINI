@@ -7,4 +7,15 @@ Mobile Model : Samsung m15
 
 Academics : Graduate
 
+<<<<<<< HEAD
 updated
+=======
+Hobby : Mehandi
+
+Hello this is Harini Natarajan
+
+Specialization : UG
+
+
+Updated 
+>>>>>>> feature-24MCR031
