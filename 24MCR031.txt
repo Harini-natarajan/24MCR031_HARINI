@@ -10,3 +10,5 @@ Academics : Graduate
 Hobby : Mehandi
 
 Hello this is Harini Natarajan
+
+Specialization : UG
