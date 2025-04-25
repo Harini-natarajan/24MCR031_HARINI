@@ -6,3 +6,5 @@ Fav.Topic:Java
 Mobile Model : Samsung m15
 
 Academics : Graduate
+
+updated
